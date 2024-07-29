@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\bin\Debug\net8.0\FishariesIndexes.exe
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\bin\Debug\net8.0\FishariesIndexes.deps.json
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\bin\Debug\net8.0\FishariesIndexes.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\bin\Debug\net8.0\FishariesIndexes.dll
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\bin\Debug\net8.0\FishariesIndexes.pdb
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.dll
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\refint\FishariesIndexes.dll
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.pdb
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\FishariesIndexes.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG3A\FishariesIndexes\obj\Debug\net8.0\ref\FishariesIndexes.dll

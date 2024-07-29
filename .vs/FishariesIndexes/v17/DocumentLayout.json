@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\FishariesIndexes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A65B57-010E-46AC-B741-E3C8816124FE}|FishariesIndexes.csproj|c:\\users\\lab_services_student\\desktop\\prog3a\\fishariesindexes\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A65B57-010E-46AC-B741-E3C8816124FE}|FishariesIndexes.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E020E-4ABD-46D2-97CB-EE8334B92C73}|..\\MSTestFishariesIndexes\\MSTestFishariesIndexes.csproj|c:\\users\\lab_services_student\\desktop\\prog3a\\mstestfishariesindexes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A65B57-010E-46AC-B741-E3C8816124FE}|FishariesIndexes.csproj|c:\\users\\lab_services_student\\desktop\\prog3a\\fishariesindexes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A65B57-010E-46AC-B741-E3C8816124FE}|FishariesIndexes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestFishariesIndexes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MSTestFishariesIndexes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestFishariesIndexes\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MSTestFishariesIndexes\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:25:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\FishariesIndexes\\Orders.cs",
+              "RelativeDocumentMoniker": "Orders.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\FishariesIndexes\\Orders.cs",
+              "RelativeToolTip": "Orders.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:57:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\FishariesIndexes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\FishariesIndexes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:56:53.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
